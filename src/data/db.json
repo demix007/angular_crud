@@ -1,0 +1,24 @@
+{
+  "associate": [
+    {
+      "id": 1,
+      "name": "demix",
+      "email": "demix007@gmail.com",
+      "phone": "123456789",
+      "associategroup": "level2",
+      "address": "block 8\n",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "bussy",
+      "email": "bussy@gmail.com",
+      "phone": "987654321",
+      "associategroup": "level2",
+      "address": "block 7",
+      "type": "SUPPLIER",
+      "status": false
+    }
+  ]
+}
